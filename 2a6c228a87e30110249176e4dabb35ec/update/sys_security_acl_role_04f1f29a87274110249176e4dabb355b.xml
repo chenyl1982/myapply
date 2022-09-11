@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 08:06:34</sys_created_on>
+        <sys_id>04f1f29a87274110249176e4dabb355b</sys_id>
+        <sys_name>x_826634_my_apply_my_task.x_826634_my_apply.my_task_user</sys_name>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_security_acl display_value="x_826634_my_apply_my_task">4cf1f29a87274110249176e4dabb3558</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_04f1f29a87274110249176e4dabb355b</sys_update_name>
+        <sys_user_role display_value="x_826634_my_apply.my_task_user" name="x_826634_my_apply.my_task_user">abe1b65a87274110249176e4dabb35b7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

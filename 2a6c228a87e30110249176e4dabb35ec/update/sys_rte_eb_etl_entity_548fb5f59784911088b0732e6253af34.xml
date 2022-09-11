@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Source_x_826634_my_apply_ihub_import_07be75b59784911088b0732e6253af63</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 11:40:40</sys_created_on>
+        <sys_id>548fb5f59784911088b0732e6253af34</sys_id>
+        <sys_name>Source_x_826634_my_apply_ihub_import_07be75b59784911088b0732e6253af63</sys_name>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="requirement_etl_ihub">9c8fb5f59784911088b0732e6253af2e</sys_rte_eb_definition>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_548fb5f59784911088b0732e6253af34</sys_update_name>
+        <table>x_826634_my_apply_ihub_import_07be75b59784911088b0732e6253af63</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

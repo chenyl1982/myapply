@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7931ba1a87274110249176e4dabb35e5" label="My Task" max_length="40" name="x_826634_my_apply_my_task" type="collection">
+        <element default="1" label="state" max_length="40" name="state" type="integer"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element display="true" label="title" max_length="2000" name="title" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

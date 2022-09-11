@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>myapplyflow</internal_name>
+        <label_cache>[{"name":"aaf5ef08-f22f-4e4b-a187-ad1e0ef378fa.total_duration","label":"1 - Wait for a duration of time➛Total Duration","reference_display":"Total Duration","type":"glide_duration","base_type":"glide_duration","attributes":{"pills_draggable_inside_block":"false","pills_draggable_outside_block":"true"}},{"name":"aaf5ef08-f22f-4e4b-a187-ad1e0ef378fa.scheduled_end_date_time","label":"1 - Wait for a duration of time➛Scheduled End date/time","reference_display":"Scheduled End date/time","type":"glide_date_time","base_type":"glide_date_time","attributes":{"pills_draggable_inside_block":"false","pills_draggable_outside_block":"true"}},{"name":"3c032b5f-3a78-4373-a1cd-58c45be49187.__action_status__","label":"3 - FlowTemplate Post a weekly message to Slack➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"3c032b5f-3a78-4373-a1cd-58c45be49187.__dont_treat_as_error__","label":"3 - FlowTemplate Post a weekly message to Slack➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>myapplyflow</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:14:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b321b7d69788151088b0732e6253af94</sys_id>
+        <sys_name>myapplyflow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_hub_flow_b321b7d69788151088b0732e6253af94</sys_update_name>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=b321b7d69788151088b0732e6253af94"/>
+    <sys_variable_value action="delete_multiple" query="document_key=b321b7d69788151088b0732e6253af94"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=b321b7d69788151088b0732e6253af94"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=b321b7d69788151088b0732e6253af94"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=b321b7d69788151088b0732e6253af94^sys_idNOT IN7f21b7d69788151088b0732e6253af95"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>b321b7d69788151088b0732e6253af94</id>
+        <name>myapplyflow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:14:18</sys_created_on>
+        <sys_id>7f21b7d69788151088b0732e6253af95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:14:18</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=7f21b7d69788151088b0732e6253af95"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=b321b7d69788151088b0732e6253af94"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=b321b7d69788151088b0732e6253af94"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=b321b7d69788151088b0732e6253af94"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=b321b7d69788151088b0732e6253af94^sys_idNOT IN74427f1a9788151088b0732e6253af03"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="FlowTemplate Post a weekly message to Slack">5354c166ffb2101088e94ee9453bf147</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="myapplyflow">b321b7d69788151088b0732e6253af94</flow>
+        <order>3</order>
+        <parent_ui_id>b9f258bd-54ab-4a70-9143-93a5ce1bff5d</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:19:00</sys_created_on>
+        <sys_id>74427f1a9788151088b0732e6253af03</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:19:00</sys_updated_on>
+        <ui_id>3c032b5f-3a78-4373-a1cd-58c45be49187</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=74427f1a9788151088b0732e6253af03"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_5354c166ffb2101088e94ee9453bf147^id=74427f1a9788151088b0732e6253af03"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=74427f1a9788151088b0732e6253af03"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=74427f1a9788151088b0732e6253af03"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=b321b7d69788151088b0732e6253af94"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=b321b7d69788151088b0732e6253af94^sys_idNOT INe4423f1a9788151088b0732e6253aff1,fc423f1a9788151088b0732e6253aff9"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">ac423f1a9788151088b0732e6253aff0</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="myapplyflow">b321b7d69788151088b0732e6253af94</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Wait for a duration of time">fdb2541473031300b61e66476bf6a70e</logic_definition>
+        <order>1</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:19:00</sys_created_on>
+        <sys_id>e4423f1a9788151088b0732e6253aff1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:19:00</sys_updated_on>
+        <ui_id>aaf5ef08-f22f-4e4b-a187-ad1e0ef378fa</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=e4423f1a9788151088b0732e6253aff1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>e4423f1a9788151088b0732e6253aff1</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:19:00</sys_created_on>
+        <sys_id>34423f1a9788151088b0732e6253aff9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:19:00</sys_updated_on>
+        <value>245b31e3672322004792adab9485ef9c</value>
+        <variable display_value="During the following schedule">fb55145473031300b61e66476bf6a762</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>e4423f1a9788151088b0732e6253aff1</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:19:00</sys_created_on>
+        <sys_id>70423f1a9788151088b0732e6253aff9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:19:00</sys_updated_on>
+        <value>2022-06-15 17:00:00</value>
+        <variable display_value="Timer relative date time">1f25d05473031300b61e66476bf6a773</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>e4423f1a9788151088b0732e6253aff1</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:19:00</sys_created_on>
+        <sys_id>74423f1a9788151088b0732e6253aff8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:19:00</sys_updated_on>
+        <value>1970-01-01 01:00:00</value>
+        <variable display_value="Duration">ef145c1473031300b61e66476bf6a7be</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>e4423f1a9788151088b0732e6253aff1</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:19:00</sys_created_on>
+        <sys_id>bc423f1a9788151088b0732e6253aff8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:19:00</sys_updated_on>
+        <value>relative_duration</value>
+        <variable display_value="Duration Type">4973581473031300b61e66476bf6a785</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_fdb2541473031300b61e66476bf6a70e^id=e4423f1a9788151088b0732e6253aff1"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=e4423f1a9788151088b0732e6253aff1"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=e4423f1a9788151088b0732e6253aff1"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">3c423f1a9788151088b0732e6253aff9</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="myapplyflow">b321b7d69788151088b0732e6253af94</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Do the following until">eaeb040687210300e6c2c88fc0e3ec89</logic_definition>
+        <order>2</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 09:19:00</sys_created_on>
+        <sys_id>fc423f1a9788151088b0732e6253aff9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 09:19:00</sys_updated_on>
+        <ui_id>b9f258bd-54ab-4a70-9143-93a5ce1bff5d</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=fc423f1a9788151088b0732e6253aff9"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_eaeb040687210300e6c2c88fc0e3ec89^id=fc423f1a9788151088b0732e6253aff9"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=fc423f1a9788151088b0732e6253aff9"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=fc423f1a9788151088b0732e6253aff9"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=b321b7d69788151088b0732e6253af94"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=b321b7d69788151088b0732e6253af94"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_b321b7d69788151088b0732e6253af94"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_b321b7d69788151088b0732e6253af94"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_b321b7d69788151088b0732e6253af94"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_b321b7d69788151088b0732e6253af94"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=b321b7d69788151088b0732e6253af94"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=b321b7d69788151088b0732e6253af94"/>
+</record_update>

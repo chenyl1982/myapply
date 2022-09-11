@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_826634_my_apply_st_my_remote_table1</description>
+        <name>x_826634_my_apply_st_my_remote_table1</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 12:29:42</sys_created_on>
+        <sys_id>22ba46b197c4911088b0732e6253af03</sys_id>
+        <sys_name>x_826634_my_apply_st_my_remote_table1</sys_name>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_security_acl_22ba46b197c4911088b0732e6253af03</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

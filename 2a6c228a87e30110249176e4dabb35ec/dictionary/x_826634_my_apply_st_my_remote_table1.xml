@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="916a02b197c4911088b0732e6253af61" label="my remote table1" max_length="40" name="x_826634_my_apply_st_my_remote_table1" type="collection">
+        <element label="title" max_length="2000" name="title" type="string"/>
+    </element>
+</database>

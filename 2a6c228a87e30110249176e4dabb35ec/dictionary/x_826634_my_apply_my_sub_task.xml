@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c8d60abd9784911088b0732e6253affd" extends="x_826634_my_apply_my_task" label="My Sub Task" max_length="40" name="x_826634_my_apply_my_sub_task" type="collection">
+        <element label="sub title" max_length="200" name="sub_title" type="string"/>
+    </element>
+</database>

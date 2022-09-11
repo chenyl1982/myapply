@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for requirement</description>
+        <name>requirement_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="requirement_etl_ihub">9c8fb5f59784911088b0732e6253af2e</robust_transform_engine>
+        <source_table>x_826634_my_apply_ihub_import_07be75b59784911088b0732e6253af63</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 11:40:40</sys_created_on>
+        <sys_id>548fb5f59784911088b0732e6253af31</sys_id>
+        <sys_name>requirement_rte_ihub</sys_name>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_548fb5f59784911088b0732e6253af31</sys_update_name>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

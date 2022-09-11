@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_playbook_experience_configuration">
+    <sys_playbook_experience_configuration action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assigned_to_field>assigned_to</assigned_to_field>
+        <expand_first_prioritized_card>true</expand_first_prioritized_card>
+        <filter_fields>assigned_to,state</filter_fields>
+        <filter_on_playbook_card_status>true</filter_on_playbook_card_status>
+        <inaccessible_data_visibility>HIDE_INACCESSIBLE_DATA</inaccessible_data_visibility>
+        <max_form_fields_on_card>15</max_form_fields_on_card>
+        <order>0</order>
+        <pending_activity_display>SHOW_ALL</pending_activity_display>
+        <playbook_experience display_value="My PlayBook">6b75cefd9771195088b0732e6253afc2</playbook_experience>
+        <playbook_record/>
+        <playbook_table>sys_pd_process_definition</playbook_table>
+        <show_activity_state>true</show_activity_state>
+        <show_automated_manual_indicator>true</show_automated_manual_indicator>
+        <sla_configuration/>
+        <sys_class_name>sys_playbook_experience_configuration</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 01:56:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a675414a9731595088b0732e6253afea</sys_id>
+        <sys_name/>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_playbook_experience_configuration_a675414a9731595088b0732e6253afea</sys_update_name>
+    </sys_playbook_experience_configuration>
+</record_update>
