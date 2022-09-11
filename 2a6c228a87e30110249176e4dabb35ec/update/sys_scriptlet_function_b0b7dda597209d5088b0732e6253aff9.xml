@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scriptlet_function">
+    <sys_scriptlet_function action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <name>simple</name>
+        <script><![CDATA[function demo(){
+ return 1+1;
+}]]></script>
+        <sys_class_name>sys_scriptlet_function</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 10:40:21</sys_created_on>
+        <sys_id>b0b7dda597209d5088b0732e6253aff9</sys_id>
+        <sys_name>simple</sys_name>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_scriptlet_function_b0b7dda597209d5088b0732e6253aff9</sys_update_name>
+    </sys_scriptlet_function>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd7ee2c687270110249176e4dabb35a9" label="user info" max_length="40" name="x_826634_my_apply_user_info" type="collection">
+        <element label="address" max_length="4000" name="address" type="string"/>
+        <element label="fullname" max_length="400" name="fullname" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element display="true" label="username" max_length="400" name="username" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

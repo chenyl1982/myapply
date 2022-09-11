@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="sn_ihub_target_fullname">46af7df59784911088b0732e6253af57</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 11:41:20</sys_created_on>
+        <sys_id>52af7df59784911088b0732e6253af71</sys_id>
+        <sys_name/>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="requirement_etl_ihub">9c8fb5f59784911088b0732e6253af2e</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">52af7df59784911088b0732e6253af6e</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_52af7df59784911088b0732e6253af71</sys_update_name>
+        <target_sys_rte_eb_field display_value="fullname">ac8f79f59784911088b0732e6253af74</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

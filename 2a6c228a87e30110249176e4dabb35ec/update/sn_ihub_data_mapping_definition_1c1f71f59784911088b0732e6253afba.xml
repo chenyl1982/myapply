@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>47be75b59784911088b0732e6253af64</record_id>
+        <source_structure display_value="FDd81f71f544849110e79a46000bbbf3b7">9c1f71f59784911088b0732e6253afb7</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 11:38:45</sys_created_on>
+        <sys_id>1c1f71f59784911088b0732e6253afba</sys_id>
+        <sys_name/>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_1c1f71f59784911088b0732e6253afba</sys_update_name>
+    </sn_ihub_data_mapping_definition>
+</record_update>

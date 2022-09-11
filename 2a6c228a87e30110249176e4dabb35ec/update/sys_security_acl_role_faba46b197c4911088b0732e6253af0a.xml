@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 12:29:42</sys_created_on>
+        <sys_id>faba46b197c4911088b0732e6253af0a</sys_id>
+        <sys_name>x_826634_my_apply_st_my_remote_table1.incident_manager</sys_name>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_security_acl display_value="x_826634_my_apply_st_my_remote_table1">f2ba46b197c4911088b0732e6253af08</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_faba46b197c4911088b0732e6253af0a</sys_update_name>
+        <sys_user_role display_value="incident_manager" name="incident_manager">415f09c10bb63200ecfd818393673af1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

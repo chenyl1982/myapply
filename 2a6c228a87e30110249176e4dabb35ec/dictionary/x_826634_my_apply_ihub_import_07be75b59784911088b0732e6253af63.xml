@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f5ffb1399784911088b0732e6253af08" extends="sys_import_set_row" label="requirement" max_length="40" name="x_826634_my_apply_ihub_import_07be75b59784911088b0732e6253af63" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=f1" label="f1" max_length="40" name="u_f1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=f2" label="f2" max_length="40" name="u_f2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=f3" label="f3" max_length="40" name="u_f3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=f4" label="f4" max_length="40" name="u_f4" type="string"/>
+    </element>
+</database>
