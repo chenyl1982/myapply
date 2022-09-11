@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="my-ui-page">a4e5096597fd955088b0732e6253af9d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>userinfo</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query>&amp;a=1</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-07 12:44:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>298645a597fd955088b0732e6253af25</sys_id>
+        <sys_name>userinfo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
+        <sys_update_name>sys_app_module_298645a597fd955088b0732e6253af25</sys_update_name>
+        <timeline_page/>
+        <title>userinfo</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>/x/826634/myhome/myuserinfo</window_name>
+    </sys_app_module>
+</record_update>

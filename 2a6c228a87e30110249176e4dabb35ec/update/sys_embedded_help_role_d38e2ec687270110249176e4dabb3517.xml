@@ -6,13 +6,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-20 13:13:18</sys_created_on>
         <sys_id>d38e2ec687270110249176e4dabb3517</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>df8eeac687270110249176e4dabb35f0</sys_name>
         <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
         <sys_update_name>sys_embedded_help_role_d38e2ec687270110249176e4dabb3517</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-20 13:13:18</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>
