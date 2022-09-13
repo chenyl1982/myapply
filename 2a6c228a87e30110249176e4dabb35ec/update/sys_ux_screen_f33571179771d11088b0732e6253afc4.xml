@@ -4,7 +4,7 @@
         <app_config display_value="myhome">a1d779bd9744911088b0732e6253afe5</app_config>
         <description/>
         <event_mappings>[ ]</event_mappings>
-        <macroponent display_value="my-user-info">4c42852197fd955088b0732e6253af7d</macroponent>
+        <macroponent display_value="base-page default">333571179771d11088b0732e6253afc2</macroponent>
         <macroponent_config>{
   "label" : {
     "type" : "TRANSLATION_LITERAL",
@@ -39,25 +39,25 @@
     "value" : false
   }
 }</macroponent_config>
-        <name>my-user-info default</name>
-        <order>10</order>
+        <name>base-page default</name>
+        <order>0</order>
         <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
-        <screen_type/>
+        <screen_type display_value="base-page">7b3571179771d11088b0732e6253afbf</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-09-07 12:24:27</sys_created_on>
+        <sys_created_on>2022-09-13 02:36:36</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>5c42852197fd955088b0732e6253af80</sys_id>
-        <sys_name>my-user-info default</sys_name>
+        <sys_id>f33571179771d11088b0732e6253afc4</sys_id>
+        <sys_name>base-page default</sys_name>
         <sys_overrides/>
         <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
-        <sys_update_name>sys_ux_screen_5c42852197fd955088b0732e6253af80</sys_update_name>
+        <sys_update_name>sys_ux_screen_f33571179771d11088b0732e6253afc4</sys_update_name>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=5c42852197fd955088b0732e6253af80"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f33571179771d11088b0732e6253afc4"/>
 </record_update>

@@ -5,22 +5,22 @@
         <extension_point/>
         <fields/>
         <icon/>
-        <name>my-user-info</name>
+        <name>base-page</name>
         <optional_parameters/>
         <order>0</order>
         <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
         <parent_macroponent_composition_element_id/>
-        <route_type>myuserinfo</route_type>
-        <screen_type/>
+        <route_type>base-page</route_type>
+        <screen_type display_value="base-page">7b3571179771d11088b0732e6253afbf</screen_type>
         <sys_class_name>sys_ux_app_route</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-09-07 12:24:27</sys_created_on>
-        <sys_id>90420d6197fd955088b0732e6253af3d</sys_id>
-        <sys_name>my-user-info</sys_name>
+        <sys_created_on>2022-09-13 02:36:36</sys_created_on>
+        <sys_id>ff3575979771d11088b0732e6253af5a</sys_id>
+        <sys_name>base-page</sys_name>
         <sys_package display_value="my apply" source="x_826634_my_apply">2a6c228a87e30110249176e4dabb35ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="my apply">2a6c228a87e30110249176e4dabb35ec</sys_scope>
-        <sys_update_name>sys_ux_app_route_90420d6197fd955088b0732e6253af3d</sys_update_name>
+        <sys_update_name>sys_ux_app_route_ff3575979771d11088b0732e6253af5a</sys_update_name>
     </sys_ux_app_route>
-    <sys_translated_text action="delete_multiple" query="documentkey=90420d6197fd955088b0732e6253af3d"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=ff3575979771d11088b0732e6253af5a"/>
 </record_update>
